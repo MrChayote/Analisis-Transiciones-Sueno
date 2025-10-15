@@ -53,7 +53,7 @@ Este fue un proyecto colaborativo desarrollado por:
 
 * **Irving Rafael S. F.** - ([@MrChayote](https://github.com/MrChayote))
 * **Daniel J. Ocampo. O.** - ([@Daniel27120](https://github.com/Daniel27120))
-* **[Nombre del Compañero 2]** - ([@UsuarioGitHubCompañero2](https://github.com/UsuarioGitHubCompañero2))
+* **[A. David Catalan V.]** - ([@dadcat-cat](https://github.com/dadcat-cat))
 
 Agradecimientos especiales al Dr Daniel Arzate-  por su guía y apoyo durante el desarrollo de este proyecto.
 
