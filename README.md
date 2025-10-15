@@ -19,7 +19,7 @@ Para permitir la ejecución y revisión del código, se ha incluido una pequeña
 ### Estructura del Repositorio
 
 * **/sample_data/sample_dataset.csv**: Datos de muestra para ejecutar el notebook.
-* **Sleep_Proyect_Miel.ipynb**: El Jupyter Notebook que contiene todo el proceso de análisis, desde la limpieza de datos hasta la modelación y conclusión.
+* **Sleep_Proyect.ipynb**: El Jupyter Notebook que contiene todo el proceso de análisis, desde la limpieza de datos hasta la modelación y conclusión.
 
 ---
 
