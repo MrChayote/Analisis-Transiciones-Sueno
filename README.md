@@ -2,7 +2,7 @@
 
 ![Banner de Ciencia de Datos](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 📖 Resumen del Proyecto
+## Resumen del Proyecto
 
 Este repositorio contiene el proyecto final para la materia de Aprendizaje Automático, enfocado en el análisis de datos de conectividad cerebral para predecir las transiciones entre diferentes fases del sueño. Se realizó un preprocesamiento exhaustivo, un análisis exploratorio de datos (EDA) y se evaluaron múltiples modelos de clasificación para determinar la viabilidad de la predicción.
 
@@ -16,7 +16,7 @@ Para permitir la ejecución y revisión del código, se ha incluido una pequeña
 
 ---
 
-### 📂 Estructura del Repositorio
+### Estructura del Repositorio
 
 * **/sample_data/sample_dataset.csv**: Datos de muestra para ejecutar el notebook.
 * **Sleep_Proyect_Miel.ipynb**: El Jupyter Notebook que contiene todo el proceso de análisis, desde la limpieza de datos hasta la modelación y conclusión.
@@ -25,7 +25,7 @@ Para permitir la ejecución y revisión del código, se ha incluido una pequeña
 
 ---
 
-### 🛠️ Tecnologías Utilizadas
+### Tecnologías Utilizadas
 
 * **Python 3.x**
 * **Pandas & NumPy**: Para manipulación y análisis de datos.
@@ -36,36 +36,8 @@ Para permitir la ejecución y revisión del código, se ha incluido una pequeña
 
 ---
 
-### 🚀 Instalación y Uso
 
-Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
-
-1.  **Clona el repositorio:**
-    ```bash
-    git clone [https://github.com/TU_USUARIO/Analisis-Transiciones-Sueno.git](https://github.com/TU_USUARIO/Analisis-Transiciones-Sueno.git)
-    cd Analisis-Transiciones-Sueno
-    ```
-
-2.  **Crea un entorno virtual (recomendado):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # En Windows: venv\Scripts\activate
-    ```
-
-3.  **Instala las dependencias:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Inicia Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-    Abre el archivo `Sleep_Proyect_Miel.ipynb` y ejecuta las celdas. Asegúrate de que la ruta de carga de datos apunte al archivo `sample_dataset.csv`.
-
----
-
-### 🔬 Análisis y Hallazgos Clave
+###  Análisis y Hallazgos Clave
 
 **(Aquí pega la excelente conclusión que escribiste. Es la parte más fuerte de tu proyecto y debe estar aquí)**
 
@@ -79,10 +51,10 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 Este fue un proyecto colaborativo desarrollado por:
 
-* **[Tu Nombre Completo]** - ([@TuUsuarioGitHub](https://github.com/TuUsuarioGitHub))
-* **[Nombre del Compañero 1]** - ([@UsuarioGitHubCompañero1](https://github.com/UsuarioGitHubCompañero1))
+* **Irving Rafael S. F.** - ([@MrChayote](https://github.com/MrChayote))
+* **Daniel J. Ocampo. O.** - ([@Daniel27120](https://github.com/Daniel27120))
 * **[Nombre del Compañero 2]** - ([@UsuarioGitHubCompañero2](https://github.com/UsuarioGitHubCompañero2))
 
-Agradecimientos especiales a [Nombre del Profesor o Asesor, si aplica] por su guía y apoyo durante el desarrollo de este proyecto.
+Agradecimientos especiales al Dr Daniel Arzate-  por su guía y apoyo durante el desarrollo de este proyecto.
 
 ---
