@@ -20,8 +20,6 @@ Para permitir la ejecución y revisión del código, se ha incluido una pequeña
 
 * **/sample_data/sample_dataset.csv**: Datos de muestra para ejecutar el notebook.
 * **Sleep_Proyect_Miel.ipynb**: El Jupyter Notebook que contiene todo el proceso de análisis, desde la limpieza de datos hasta la modelación y conclusión.
-* **requirements.txt**: Listado de las librerías de Python necesarias para replicar el entorno de análisis.
-* **.gitignore**: Archivo para especificar los archivos que Git debe ignorar.
 
 ---
 
@@ -39,11 +37,7 @@ Para permitir la ejecución y revisión del código, se ha incluido una pequeña
 
 ###  Análisis y Hallazgos Clave
 
-**(Aquí pega la excelente conclusión que escribiste. Es la parte más fuerte de tu proyecto y debe estar aquí)**
-
-*Pega tu conclusión aquí...*
-
-> El análisis exploratorio inicial reveló la estructura de los datos... ...la información contenida en estas variables de conectividad no es suficiente por sí sola para predecir con alta precisión las transiciones de sueño.
+El análisis de los datos de "Sleep Transitions" mostró un desbalance en la variable objetivo 'Transition', con predominio de transiciones "x_x", lo que llevó a filtrar clases para modelar transiciones reales. El análisis estadístico reveló variabilidad en las conexiones cerebrales, visualizada mediante gráficos de dispersión y box plots. Modelos de clasificación (Regresión Logística, Random Forest, XGBoost) aplicados a datasets filtrados y transformados por PCA arrojaron métricas bajas (<30%), indicando dificultad para predecir transiciones de sueño con las variables de conectividad cerebral. La reducción de dimensionalidad con PCA no mejoró el rendimiento. Se sugiere explorar nuevas técnicas de preprocesamiento, características adicionales o modelos más complejos, ya que las variables actuales podrían no ser suficientes para predicciones precisas.
 
 ---
 
